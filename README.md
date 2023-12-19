@@ -16,3 +16,4 @@ If you are still having trouble go here for additional help: https://the-long-da
 # How it works
 To enbale scurvy on a save load into the desired save and press the F5 key it will then save the game and enable scurvy.
 To disable scurvy do the same thing except press the F6 key to disable scurvy.
+!NOTE after enabling this mod you can uninstall it afterwords and still keep the changes it made
